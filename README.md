@@ -3,9 +3,9 @@ FuelPHP-Breadcrumb
 
 Easy create breadcrumb
 
-  \Breadcrumb::create('Home');
-  \Breadcrumb::create('Level 2');
-  \Breadcrumb::create('Level 3');
+    \Breadcrumb::create('Home');
+    \Breadcrumb::create('Level 2');
+    \Breadcrumb::create('Level 3');
   
   
 Create: 
